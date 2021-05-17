@@ -1,10 +1,21 @@
 ### Hi there 👋, my name is Maksim
 Lookin' for a job
 
-Skills: C / RUBY / RUBY ON RAILS
 
+### Tech Stack
+<pre>
+<b>></b> man kidsalright
 
+  <b>Shell: </b> Zsh
+  <b>VCS:   </b> Git
+  <b>Editor:</b> Vim
+  <b>Stack: </b> C, Ruby, Ruby on Rails, Linux
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kidsalright)  
+<b>> <img align="top" src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" alt="cursor" width="10" height="18" /></b>
+</pre>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kidsalright&show_icons=true&count_private=true)  
+### GitHub Analytics
+<p align="center">
+	<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kidsalright&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true" />
+	<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kidsalright&layout=compact&theme=vue-dark&hide_border=true" />
+</p>
