@@ -1,11 +1,12 @@
-### Hi there 👋, my name is Maksim
+### Hi there 👋, my name is Maksim Bokov
+
 Lookin' for a job
 
 
 ### Tech Stack
 <pre>
-<b>></b> man kidsalright
-
+  <b>Shell: </b> Zsh
+  <b>Shell: </b> Zsh
   <b>Shell: </b> Zsh
   <b>VCS:   </b> Git
   <b>Editor:</b> Vim
