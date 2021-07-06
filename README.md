@@ -1,5 +1,3 @@
-### Hi there 👋, my name is Maksim Bokov
-
 Lookin' for a job
 
 
