@@ -1,6 +1,6 @@
 Lookin' for a job
 
-currently workin' on creatin' a resume website <a href="https://github.com/kidsalright/myau">repository</a> | <a href="curriculumvi.herokuapp.com">heroku</a> )))))
+currently workin' on creatin' a resume website <a href="https://github.com/kidsalright/myau">repository</a> | <a href="https://curriculumvi.herokuapp.com">heroku</a> )))))
 
 ### Tech Stack
 <pre>
