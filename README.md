@@ -1,6 +1,6 @@
 Lookin' for a job
 
-currently workin' on this <a href="https://github.com/kidsalright/myau">rails app</a>, which is deployed curriculumvi.herokuapp.com (but still undone) )))
+currently workin' on creatin' a resume website <a href="https://github.com/kidsalright/myau">repository</a> | <a href="hrefcurriculumvi.herokuapp.com" heroku</a>)))))
 
 ### Tech Stack
 <pre>
