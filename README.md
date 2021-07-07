@@ -1,5 +1,6 @@
 Lookin' for a job
 
+currently workin' on this <a href="https://github.com/kidsalright/myau">rails app</a>, which is deployed curriculumvi.herokuapp.com (but still undone) )))
 
 ### Tech Stack
 <pre>
