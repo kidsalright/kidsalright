@@ -1,4 +1,4 @@
-Welcome, glad 2 c u here!)
+### Welcome, glad 2 c u here!)
 
 Currently workin' on creatin' a resume website <a href="https://github.com/kidsalright/myau">repository</a> | <a href="https://curriculumvi.herokuapp.com">heroku</a> )))))
 
