@@ -11,10 +11,10 @@ Currently workin' on creatin' a resume website <a href="https://github.com/kidsa
 <pre>
   <b>Emloyment: </b> Lookin' for a job of backend developer
   <b>Languages: </b> C, Ruby
-  <b>Web: 	</b> Ruby on Rails, HTML/CSS
-  <b>Other: 	</b> PostgreSQL, Make, linux
-  <b>VCS:   	</b> Git
-  <b>More:	</b> Soft skills(thx to 42.fr), algorithms, data structures, good english
+  <b>Web:       </b> Ruby on Rails, HTML/CSS
+  <b>Other:     </b> PostgreSQL, Make, linux
+  <b>VCS:       </b> Git
+  <b>More:      </b> Soft skills(thx to 42.fr), algorithms, data structures, good english
 
 <b>> <img align="top" src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" alt="cursor" width="10" height="18" /></b>
 </pre>
