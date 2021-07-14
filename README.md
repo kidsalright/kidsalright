@@ -4,7 +4,7 @@ Currently workin' on creatin' a resume website usin' Ruby on Rails <a href="http
 
 ### Some links:
 
-<p><a href="https://www.codewars.com/users/kidsalright/completed_solutions">Codwears profile</a> - code challenges platform</p>
+<p><a href="https://www.codewars.com/users/kidsalright/completed_solutions">Codewars profile</a> - code challenges platform</p>
 <p><a href="https://www.sololearn.com/profile/9873042">SoloLearn profile</a> - cources and code challenges, i've some certificates there)</p>
 
 ### About me:
