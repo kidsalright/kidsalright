@@ -4,8 +4,8 @@ Currently workin' on creatin' a resume website <a href="https://github.com/kidsa
 
 ### Some links:
 
-<a href="https://www.codewars.com/users/kidsalright/completed_solutions">Codwears</a> - code challenges platform
-<a href="https://www.sololearn.com/profile/9873042">SoloLearn</a> - cources and code challenges, i've some certificates there)
+<p><a href="https://www.codewars.com/users/kidsalright/completed_solutions">Codwears</a> - code challenges platform</p>
+<p><a href="https://www.sololearn.com/profile/9873042">SoloLearn</a> - cources and code challenges, i've some certificates there)</p>
 
 ### About me:
 <pre>
