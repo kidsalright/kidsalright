@@ -10,8 +10,8 @@ Currently workin' on creatin' a resume website usin' Ruby on Rails <a href="http
 ### About me:
 <pre>
   <b>Emloyment:  </b> Lookin' for a job of backend developer
-  <b>Languages:  </b> C, Ruby
   <b>Educatation:</b> 42.fr programming school, incomplete higher in some engineering universities 
+  <b>Languages:  </b> C, Ruby
   <b>Web:        </b> Ruby on Rails, HTML/CSS
   <b>Other:      </b> PostgreSQL, Make, linux
   <b>VCS:        </b> Git
