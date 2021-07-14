@@ -1,6 +1,6 @@
 ### Welcome, glad 2 c u here!)
 
-Currently workin' on creatin' a resume website <a href="https://github.com/kidsalright/myau">repository</a> | <a href="https://curriculumvi.herokuapp.com">heroku</a> )))))
+Currently workin' on creatin' a resume website usin' Ruby on Rails <a href="https://github.com/kidsalright/myau">repository</a> | <a href="https://curriculumvi.herokuapp.com">heroku</a> )))))
 
 ### Some links:
 
