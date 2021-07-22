@@ -7,6 +7,7 @@ Currently working: on creating a instagram clone using Ruby on Rails, <a href="h
 ### Some links:
 
 <a href="https://www.codewars.com/users/kidsalright/completed_solutions">Codewars profile</a> - code challenges platform
+<br>
 <a href="https://www.sololearn.com/profile/9873042">SoloLearn profile</a> - cources and code challenges, i've some certificates there)
 
 ### About me:
