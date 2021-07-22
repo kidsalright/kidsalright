@@ -1,21 +1,23 @@
 ### Welcome, glad 2 c u here!)
 
-Currently workin' on creatin' a resume website usin' Ruby on Rails <a href="https://github.com/kidsalright/myau">repository</a> | <a href="https://curriculumvi.herokuapp.com">heroku</a> )))))
+Recently done: Terminal game on Ruby "IteeSim" - awesome IT director simulator, <a href="https://github.com/kidsalright/iteesim">repository</a>
+
+Currently working: on creatinп a instagram clone usinп Ruby on Rails, <a href="https://github.com/kidsalright/notstagram">repository</a> and <a href="https://checkdizout.herokuapp.com">heroku</a>
 
 ### Some links:
 
-<p><a href="https://www.codewars.com/users/kidsalright/completed_solutions">Codewars profile</a> - code challenges platform</p>
-<p><a href="https://www.sololearn.com/profile/9873042">SoloLearn profile</a> - cources and code challenges, i've some certificates there)</p>
+<a href="https://www.codewars.com/users/kidsalright/completed_solutions">Codewars profile</a> - code challenges platform
+<a href="https://www.sololearn.com/profile/9873042">SoloLearn profile</a> - cources and code challenges, i've some certificates there)
 
 ### About me:
 <pre>
-  <b>Emloyment:  </b> Lookin' for a job of backend developer
+  <b>Emloyment:  </b> Lookin' for a job of a Ruby backend developer
   <b>Educatation:</b> 42.fr programming school, incomplete higher in some engineering universities 
   <b>Languages:  </b> C, Ruby
-  <b>Web:        </b> Ruby on Rails, HTML/CSS
-  <b>Other:      </b> PostgreSQL, Make, linux
+  <b>Web:        </b> Ruby on Rails, HTML/CSS, Bootstrap 5
+  <b>Other:      </b> PostgreSQL, Make, Unix
   <b>VCS:        </b> Git
-  <b>More:       </b> Soft skills, algorithms, data structures, good english
+  <b>More:       </b> Soft skills, algorithms, data structures, clean code, SOLID, good english
 
 <b>> <img align="top" src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" alt="cursor" width="10" height="18" /></b>
 </pre>
