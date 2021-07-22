@@ -2,7 +2,7 @@
 
 Recently done: Terminal game on Ruby "IteeSim" - awesome IT director simulator, <a href="https://github.com/kidsalright/iteesim">repository</a>
 
-Currently working: on creatinп a instagram clone usinп Ruby on Rails, <a href="https://github.com/kidsalright/notstagram">repository</a> and <a href="https://checkdizout.herokuapp.com">heroku</a>
+Currently working: on creating a instagram clone using Ruby on Rails, <a href="https://github.com/kidsalright/notstagram">repository</a> and <a href="https://checkdizout.herokuapp.com">heroku</a>
 
 ### Some links:
 
