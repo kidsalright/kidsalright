@@ -1,5 +1,4 @@
-### currently military man so afk heh 🇷🇺🇷🇺
-
+### currently military man so im afk heh 
 
 
 Recently done: Terminal game on Ruby "IteeSim" - awesome IT director simulator, <a href="https://github.com/kidsalright/iteesim">repository</a>
