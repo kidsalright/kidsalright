@@ -1,4 +1,5 @@
-### afk 4 one year in army sorry heh
+### currently military man so afk heh U+1F1F7 U+1F1FA
+
 
 
 Recently done: Terminal game on Ruby "IteeSim" - awesome IT director simulator, <a href="https://github.com/kidsalright/iteesim">repository</a>
