@@ -1,4 +1,4 @@
-### currently military man so afk heh U+1F1F7 U+1F1FA
+### currently military man so afk heh 🇷🇺🇷🇺
 
 
 
